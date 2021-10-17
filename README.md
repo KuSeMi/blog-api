@@ -1,24 +1,25 @@
-# README
+###  [My solution](https://github.com/KuSeMi/blog-api/blob/master/task.md) for test task
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* implemented at
+```
+ ruby -> '2.7.2'
 
-* Ruby version
+ rails -> '6.1.4'
+``` 
 
-* System dependencies
+* How to run 
 
-* Configuration
+```
+ - bundle
+ 
+ - bundle exec rails db:create db:migrate
+ 
+ - bundle exec rails server
+``` 
 
-* Database creation
 
-* Database initialization
+###### TODO
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- refactoring
+- tests coverage
