@@ -1,4 +1,4 @@
-###  [My solution](https://github.com/KuSeMi/blog-api/blob/master/task.md) for test task
+###  My solution for [test task](https://github.com/KuSeMi/blog-api/blob/master/task.md)
 
 
 * implemented at
